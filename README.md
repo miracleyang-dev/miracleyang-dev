@@ -14,7 +14,7 @@
 
 ### 📬 Contact & Social
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miracleyang.dev@gmail.com) [![Blog](https://img.shields.io/badge/Blog-00C4FF?style=flat-square&logo=vercel&logoColor=white)](https://miracleyang.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:13235595638@163.com) [![Blog](https://img.shields.io/badge/Blog-00C4FF?style=flat-square&logo=vercel&logoColor=white)](https://miracleyang.com/)
 
 ---
 
