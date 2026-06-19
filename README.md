@@ -34,25 +34,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=miracleyang-dev&theme=tokyonight&no-frame=true&no-bg=true&title=Commits,Repositories)
-
 ### 🔥 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miracleyang-dev&theme=tokyonight&hide_border=true&background=0F172A)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [miracleyang-dev.github.io](https://github.com/miracleyang-dev/miracleyang-dev.github.io) | Personal blog site |
-| [flow-focus-system](https://github.com/miracleyang-dev/flow-focus-system) | A minimalist personal productivity system for achieving deep focus |
-| [cmlg-sexism-detection](https://github.com/miracleyang-dev/cmlg-sexism-detection) | Code and experiments for the CMLG research project |
-| [kaggle-practice-notebooks](https://github.com/miracleyang-dev/kaggle-practice-notebooks) | Kaggle practice notebooks for beginner competitions and Playground Series |
-| [basic-algorithms](https://github.com/miracleyang-dev/basic-algorithms) | Classic intermediate-to-advanced algorithm exercises in C++ |
 
 ---
 
