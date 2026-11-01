@@ -6,15 +6,16 @@
 
 ### 🧑‍💻 About Me
 
-- 🏫 University: Wuhan University (WHU), School of Mathematics
-- 📚 Major: Data Science & Big Data Technology
+- 🏫 University: Wuhan University (WHU), School of Mathematics and Statistics — BSc in Data Science & Big Data Technology, Sep 2023 – Jun 2027 (expected)
+- 🎓 Next: Incoming PhD student in Statistics, The Chinese University of Hong Kong, Aug 2027
+- 📊 Major GPA: 93.8/100 (3.92/4.0) · Major Rank: 1/63
 - 🧩 Interests: Deep Learning Research · AI4Science Applications · Kaggle Competition · Open‑Source Development
 - 🕒 Daily State: Continuous iteration and growth, focused on research and engineering practice
-- 🔭 Currently Working On: Functional Analysis, Enhancement of existing project, English Learning, ARC-AGI
+- 🔭 Currently Working On: Functional Analysis, Score‑based / Flow / Drifting Models, English Learning, ARC‑AGI
 
 ### 📬 Contact & Social
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:13235595638@163.com) [![Blog](https://img.shields.io/badge/Blog-00C4FF?style=flat-square&logo=vercel&logoColor=white)](https://miracleyang.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2023302061214@whu.edu.cn) [![Blog](https://img.shields.io/badge/Blog-00C4FF?style=flat-square&logo=vercel&logoColor=white)](https://miracleyang.com/)
 
 ---
 
@@ -22,21 +23,21 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 **Tools & Markup**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 ### 🔥 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miracleyang-dev&theme=tokyonight&hide_border=true&background=0F172A)
+![GitHub Streak](https://streak-stats.demolab.com/?user=miracleyang-dev&theme=tokyonight&hide_border=true&background=0F172A)
 
 ---
 
