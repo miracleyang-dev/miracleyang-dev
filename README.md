@@ -1,4 +1,4 @@
-![Typing SVG - Welcome to My GitHub Profile](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub+Profile;Focus+on+Deep+Learning+%26+AI4Science&font=Fira%20Code&center=true&width=550&height=50&color=00D4FF&vCenter=true&size=18)
+![Typing SVG - Welcome to My GitHub Profile](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub+Profile;Generative+AI+%26+Statistics&font=Fira%20Code&center=true&width=550&height=50&color=00D4FF&vCenter=true&size=18)
 
 # 👋 Hello World, I'm Yonghao Yang
 
