@@ -9,9 +9,9 @@
 - 🏫 University: Wuhan University (WHU), School of Mathematics and Statistics — BSc in Data Science & Big Data Technology, Sep 2023 – Jun 2027 (expected)
 - 🎓 Next: Incoming PhD student in Statistics, The Chinese University of Hong Kong, Aug 2027
 - 📊 Major GPA: 93.8/100 (3.92/4.0) · Major Rank: 1/63
-- 🧩 Interests: Deep Learning Research · AI4Science Applications · Kaggle Competition · Open‑Source Development
+- 🧩 Interests: Deep Learning Research · Probability & Statistics · Kaggle Competition · Open‑Source Development
 - 🕒 Daily State: Continuous iteration and growth, focused on research and engineering practice
-- 🔭 Currently Working On: Functional Analysis, Score‑based / Flow / Drifting Models, English Learning, ARC‑AGI
+- 🔭 Currently Working On: Generative AI · Image & Video Generation · Diffusion Language Models
 
 ### 📬 Contact & Social
 
